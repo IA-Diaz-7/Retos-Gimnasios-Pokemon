@@ -1,0 +1,32 @@
+#Roca {
+    font-size: 15px;
+    font-style: light;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lista-animales{
+    font-size: 20px;
+}
+
+
+.perros {
+    border: 1px solid #0C134F;
+    border-radius: 4px;
+    padding: 5px;
+    width: 50px;
+}
+
+.gatos{
+    border: 1px solid #0C134F;
+    border-radius: 4px;
+    padding: 5px;
+    width: 50px;
+}
+
+.aves{
+    border: 1px solid #0C134F;
+    border-radius: 4px;
+    padding: 5px;
+    width: 50px;
+}
+
