@@ -1,0 +1,40 @@
+body{
+    background-color: #0A4D68;
+}
+
+table{
+    border: 3px groove;
+    border-collapse: collapse;
+    text-align: center;
+    border-color: #00FFCA;
+}
+
+.paul{
+    color:#DDE6ED;
+}
+
+th{
+    background-color: black;
+    border: 2px double;
+    border-collapse: collapse;
+    text-align: center;
+    border-color: #1C82AD;
+    color: #DDE6ED;
+}
+
+td{
+    border: 2px double;
+    border-collapse: collapse;
+    text-align: center;
+    border-color: #1C82AD;+
+}
+
+.paulimagen{
+    padding: 20px;
+    width: 150px;
+}
+
+.album{
+    padding: 20px;
+    width: 150px;
+}
